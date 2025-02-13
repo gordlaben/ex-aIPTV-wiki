@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <!-- Fake EPG for Fake M3U Channels -->
+    
+    <!-- Defining channels -->
+    <channel id="FakeChannel1">
+        <display-name>Fake Channel 1</display-name>
+    </channel>
+    <channel id="FakeChannel2">
+        <display-name>Fake Channel 2</display-name>
+    </channel>
+    <channel id="FakeChannel3">
+        <display-name>Fake Channel 3</display-name>
+    </channel>
+    <channel id="FakeChannel4">
+        <display-name>Fake Channel 4</display-name>
+    </channel>
+    <channel id="FakeChannel5">
+        <display-name>Fake Channel 5</display-name>
+    </channel>
+    <channel id="FakeChannel6">
+        <display-name>Fake Channel 6</display-name>
+    </channel>
+    <channel id="FakeChannel7">
+        <display-name>Fake Channel 7</display-name>
+    </channel>
+    <channel id="FakeChannel8">
+        <display-name>Fake Channel 8</display-name>
+    </channel>
+    <channel id="FakeChannel9">
+        <display-name>Fake Channel 9</display-name>
+    </channel>
+    <channel id="FakeChannel10">
+        <display-name>Fake Channel 10</display-name>
+    </channel>
+    <channel id="FakeChannel11">
+        <display-name>Fake Channel 11</display-name>
+    </channel>
+    <channel id="FakeChannel12">
+        <display-name>Fake Channel 12</display-name>
+    </channel>
+    <channel id="FakeChannel13">
+        <display-name>Fake Channel 13</display-name>
+    </channel>
+    <channel id="FakeChannel14">
+        <display-name>Fake Channel 14</display-name>
+    </channel>
+    <channel id="FakeChannel15">
+        <display-name>Fake Channel 15</display-name>
+    </channel>
+    <channel id="FakeChannel16">
+        <display-name>Fake Channel 16</display-name>
+    </channel>
+    <channel id="FakeChannel17">
+        <display-name>Fake Channel 17</display-name>
+    </channel>
+    <channel id="FakeChannel18">
+        <display-name>Fake Channel 18</display-name>
+    </channel>
+    <channel id="FakeChannel19">
+        <display-name>Fake Channel 19</display-name>
+    </channel>
+    <channel id="FakeChannel20">
+        <display-name>Fake Channel 20</display-name>
+    </channel>
+    
+    <!-- Program Listings for each channel -->
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel1">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel2">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel3">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel4">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel5">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel6">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel7">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel8">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel9">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel10">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel11">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel12">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel13">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel14">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel15">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel16">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel17">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel18">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel19">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20350205090000 +0000" channel="FakeChannel20">
+        <title>Fake Show - EPG Test File #2</title>
+        <desc>Start your day with Fake Show, covering various topics.</desc>
+    </programme>
+</tv>

@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FakeChannel1" tvg-name="Fake Channel 1" group-title="Entertainment",Fake Channel 1
+http://fakeurl.com/1111/1111/stream1
+#EXTINF:-1 tvg-id="FakeChannel2" tvg-name="Fake Channel 2" group-title="Movies",Fake Channel 2
+http://fakeurl.com/1111/1111/stream2
+#EXTINF:-1 tvg-id="FakeChannel3" tvg-name="Fake Channel 3" group-title="Sports",Fake Channel 3
+http://fakeurl.com/1111/1111/stream3
+#EXTINF:-1 tvg-id="FakeChannel4" tvg-name="Fake Channel 4" group-title="News",Fake Channel 4
+http://fakeurl.com/1111/1111/stream4
+#EXTINF:-1 tvg-id="FakeChannel5" tvg-name="Fake Channel 5" group-title="Music",Fake Channel 5
+http://fakeurl.com/1111/1111/stream5
+#EXTINF:-1 tvg-id="FakeChannel6" tvg-name="Fake Channel 6" group-title="Kids",Fake Channel 6
+http://fakeurl.com/1111/1111/stream6
+#EXTINF:-1 tvg-id="FakeChannel7" tvg-name="Fake Channel 7" group-title="Documentary",Fake Channel 7
+http://fakeurl.com/1111/1111/stream7
+#EXTINF:-1 tvg-id="FakeChannel8" tvg-name="Fake Channel 8" group-title="Lifestyle",Fake Channel 8
+http://fakeurl.com/1111/1111/stream8
+#EXTINF:-1 tvg-id="FakeChannel9" tvg-name="Fake Channel 9" group-title="Comedy",Fake Channel 9
+http://fakeurl.com/1111/1111/stream9
+#EXTINF:-1 tvg-id="FakeChannel10" tvg-name="Fake Channel 10" group-title="Drama",Fake Channel 10
+http://fakeurl.com/1111/1111/stream10
+#EXTINF:-1 tvg-id="FakeChannel11" tvg-name="Fake Channel 11" group-title="Entertainment",Fake Channel 11
+http://fakeurl.com/1111/1111/stream11
+#EXTINF:-1 tvg-id="FakeChannel12" tvg-name="Fake Channel 12" group-title="Movies",Fake Channel 12
+http://fakeurl.com/1111/1111/stream12
+#EXTINF:-1 tvg-id="FakeChannel13" tvg-name="Fake Channel 13" group-title="Sports",Fake Channel 13
+http://fakeurl.com/1111/1111/stream13
+#EXTINF:-1 tvg-id="FakeChannel14" tvg-name="Fake Channel 14" group-title="News",Fake Channel 14
+http://fakeurl.com/1111/1111/stream14
+#EXTINF:-1 tvg-id="FakeChannel15" tvg-name="Fake Channel 15" group-title="Music",Fake Channel 15
+http://fakeurl.com/1111/1111/stream15
+#EXTINF:-1 tvg-id="FakeChannel16" tvg-name="Fake Channel 16" group-title="Kids",Fake Channel 16
+http://fakeurl.com/1111/1111/stream16
+#EXTINF:-1 tvg-id="FakeChannel17" tvg-name="Fake Channel 17" group-title="Documentary",Fake Channel 17
+http://fakeurl.com/1111/1111/stream17
+#EXTINF:-1 tvg-id="FakeChannel18" tvg-name="Fake Channel 18" group-title="Lifestyle",Fake Channel 18
+http://fakeurl.com/1111/1111/stream18
+#EXTINF:-1 tvg-id="FakeChannel19" tvg-name="Fake Channel 19" group-title="Comedy",Fake Channel 19
+http://fakeurl.com/1111/1111/stream19
+#EXTINF:-1 tvg-id="FakeChannel20" tvg-name="Fake Channel 20" group-title="Drama",Fake Channel 20
+http://fakeurl.com/1111/1111/stream20
